@@ -1,0 +1,19 @@
+img {
+  float: left;
+}
+
+h1 {
+  text-align: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: red;
+}
+
+.column {
+  
+  width: 300px;
+  float: left;
+}
