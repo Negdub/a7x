@@ -1,5 +1,6 @@
 img {
   float: left;
+  padding: 4px;
 }
 
 h1 {
@@ -7,13 +8,20 @@ h1 {
 }
 
 .sidebar {
+  margin: 12px;
   width: 30%;
   float: right;
   background-color: red;
+  padding: 4px;
+  border: 2px solid black;
 }
 
 .column {
   
   width: 300px;
   float: left;
+}
+
+.important {
+  color: blue;
 }
